@@ -17,7 +17,7 @@
 <code><img height="27" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" title="HTML5"></code>
 <code><img height="27" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" title="CSS3"></code>
 <code><img height="27" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" title="JavaScript"></code>
-<code><img height="27" src="https://img.shields.io/badge/React?logo=react" alt="react" title="React"></code>
+<code><img height="27" src="https://img.shields.io/badge/React-323330?logo=react&logoColor=white" alt="react" title="React"></code>
 
 ## ⚙️ Things I work with:
 
