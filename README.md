@@ -1,4 +1,9 @@
+
+<div align="center">
+  
 ![GitHub Banner](https://media.istockphoto.com/id/1167600197/vector/front-end-development-web-banner-concept.jpg?s=170667a&w=0&k=20&c=eNl3Wt4rDh1KPUIP5AX4TkmaEk1K_9CMxDjlu5kR2mE=)
+
+</div>
 
 <h1 align="center">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> I'm <b>Kyrylo Shelipov</b></h1>
 
@@ -29,7 +34,3 @@
 ## 📧 Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-shelipov-b8ab461a2/)
-
-<div align="center">
-
-</div>
