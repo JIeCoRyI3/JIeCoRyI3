@@ -1,4 +1,4 @@
-![GitHub Banner](https://www.paragyte.com/img/React_Banner.png)
+![GitHub Banner](https://media.istockphoto.com/id/1167600197/vector/front-end-development-web-banner-concept.jpg?s=170667a&w=0&k=20&c=eNl3Wt4rDh1KPUIP5AX4TkmaEk1K_9CMxDjlu5kR2mE=)
 
 <h1 align="center">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> I'm <b>Kyrylo Shelipov</b></h1>
 
