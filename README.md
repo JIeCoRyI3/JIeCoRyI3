@@ -15,7 +15,7 @@
 <br>
 
 - 🏫 MSCS (Master of Computer Science)
-- 💻 More, than 6+ years of experience
+- 💻 More, than 7+ years of experience
 
 ## 🚀 Technologies:
 
